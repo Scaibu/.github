@@ -1,91 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=220&section=header&text=Scaibu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Next--Gen%20AI%20Architectures%20%26%20Distributed%20Systems%20Lab&descAlignY=62&descSize=19&descColor=A5B4FC" width="100%" alt="Scaibu Organization Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=220&section=header&text=Scaibu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20AI%20Architectures%20%26%20Distributed%20Systems%20Lab&descAlignY=62&descSize=19&descColor=A5B4FC" width="100%" alt="Scaibu Organization Header"/>
 
 <a href="https://scaibu.co.in">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Agentic+AI+%26+Multi-Agent+Protocols;High-Throughput+Distributed+Pipelines;Enterprise+RAG+%26+Vector+Databases;Cloud-Native+Infrastructure+%26+Observability" alt="Scaibu Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Next-Gen+AI+Architectures+%26+Agentic+Systems;High-Throughput+Distributed+Pipelines;Enterprise+RAG+%26+Vector+Databases;Cloud-Native+Infrastructure+%26+IaC" alt="Scaibu Typing SVG" />
 </a>
 
 <br/>
 
 [![Website](https://img.shields.io/badge/Website-scaibu.co.in-6366f1?style=flat&logo=googlechrome)](https://scaibu.co.in)
 [![Email](https://img.shields.io/badge/Email-chief%40scaibu.co.in-4285F4?style=flat&logo=gmail&logoColor=white)](mailto:chief@scaibu.co.in)
-[![Medium](https://img.shields.io/badge/Medium-300%2B%20Articles-000000?style=flat&logo=medium)](https://medium.com/@scaibu)
+[![Medium](https://img.shields.io/badge/Research-300%2B_Articles-000000?style=flat&logo=medium)](https://medium.com/@scaibu)
 [![Organization Views](https://hits.sh/github.com/Scaibu.svg?label=Org%20Views&color=6366f1&labelColor=0d1117)](https://github.com/Scaibu)
+[![Location](https://img.shields.io/badge/HQ-Bengaluru%2C_India-FF5722?style=flat&logo=googlemaps&logoColor=white)](https://scaibu.co.in)
 
 </div>
 
 ---
 
-## 🌐 About Scaibu
+## 🌐 Enterprise Architectural Overview
 
-**Scaibu** is a research and engineering lab headquartered in Bengaluru, India. We engineer enterprise-grade **Agentic AI systems**, **event-driven distributed architectures**, and **cloud-native data platforms** capable of processing millions of transactions and high-dimensional semantic queries with sub-millisecond reliability.
+**Scaibu** is an advanced software engineering and research laboratory specializing in the design and implementation of high-throughput distributed systems, autonomous agentic AI architectures, and high-dimensional semantic search engines.
 
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>🚀 What We Build</h3>
+      <h3>🏛️ Core Architectural Principles</h3>
       <ul>
-        <li><strong>🤖 Agentic AI & Orchestration:</strong> Autonomous multi-agent pipelines with LangGraph, A2A communication, and Google Gemini/Vertex AI.</li>
-        <li><strong>⚡ Distributed Data Pipelines:</strong> Resilient streaming microservices using Kafka, Redis, and high-throughput Node.js/Python backends.</li>
-        <li><strong>📐 Vector Search & RAG:</strong> Semantic retrieval engines backed by Pinecone, Qdrant, Milvus, and pgvector.</li>
-        <li><strong>☁️ Infrastructure as Code:</strong> Reproducible cloud topologies with Terraform, Kubernetes, Docker, and OpenTelemetry.</li>
+        <li><strong>⚡ Sub-Millisecond Event Streaming:</strong> High-concurrency event brokers and asynchronous streaming architectures designed for zero-data-loss execution.</li>
+        <li><strong>🤖 Autonomous Multi-Agent Systems:</strong> Graph-based state machines and A2A communication protocols enabling multi-agent orchestration.</li>
+        <li><strong>📐 Dense Semantic Retrieval:</strong> Production-grade RAG and hybrid vector retrieval engines powered by Pinecone, Qdrant, and pgvector.</li>
+        <li><strong>☁️ Declarative Infrastructure:</strong> Immutable infrastructure as code (IaC) utilizing Terraform, Kubernetes, and automated CI/CD pipelines.</li>
       </ul>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" style="border-radius: 12px;" alt="Scaibu Tech Lab Animation"/>
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 12px;" alt="Scaibu Engineering Lab Animation"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Core Engineering Stack
+## 🛠️ Technology & Architecture Stack
 
-### 🧠 AI, ML & Vector Retrieval
+### 🧠 Machine Learning & Agentic AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Google Cloud Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Cloud Vertex AI](https://img.shields.io/badge/Google_Cloud_Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-4338CA?style=for-the-badge&logo=meta&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 📐 Vector Databases & Semantic Search
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
 ![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logo=linuxfoundation&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge&logo=qdrant&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D47E?style=for-the-badge&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ⚡ Distributed Systems & Cloud Platforms
+### ☁️ Cloud, DevOps & Infrastructure as Code (IaC)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### ⚡ Distributed Systems & Backend Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
-## 🏛️ Open Source & Ecosystem Repositories
+## 🏛️ Featured Open Source & Flagship Platforms
 
-| Repository | Domain | Core Focus |
+| Repository | Domain | Architectural Focus |
 |---|---|---|
-| 🛒 [ProcureIQ](https://github.com/Chief-Strategist-J/ProcureIQ) | Enterprise AI | Intelligent Autonomous Procurement Platform |
-| 📊 [llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | AI Observability | Metrics, Tracing & Latency Telemetry for LLM Agents |
-| 🔄 [kafka-messaging-pipeline](https://github.com/Chief-Strategist-J/kafka-messaging-pipeline) | Distributed Systems | High-Throughput Event Streams & Flow Control |
-| 🔒 [scaibu_mutex_lock](https://github.com/Chief-Strategist-J/scaibu_mutex_lock) | Concurrency | Async Mutex & Concurrency Primitives |
-| 🌐 [a2a-demo](https://github.com/Chief-Strategist-J/a2a-demo) | Multi-Agent AI | Google A2A Agent Communication Protocol Demo |
+| 🛒 [ProcureIQ](https://github.com/Chief-Strategist-J/ProcureIQ) | Enterprise AI | Intelligent autonomous procurement platform with multi-modal LLM reasoning |
+| 📊 [llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | AI Observability | OpenTelemetry tracing, latency tracking, and token cost telemetry for agent runs |
+| 🔄 [kafka-messaging-pipeline](https://github.com/Chief-Strategist-J/kafka-messaging-pipeline) | Distributed Systems | High-throughput distributed event streaming pipeline with idempotency guarantees |
+| 🌐 [a2a-demo](https://github.com/Chief-Strategist-J/a2a-demo) | Agent Communication | Multi-agent protocol demonstration utilizing LangGraph and Google Gemini |
+| 🔒 [scaibu_mutex_lock](https://github.com/Chief-Strategist-J/scaibu_mutex_lock) | Concurrency | High-performance asynchronous mutex lock implementation for concurrent runtimes |
 
 ---
 
-## 📬 Partner & Work With Us
+## 📚 Technical Research & Publications
+
+> Our engineering team actively publishes deep-dive architectural analyses on distributed system resilience, consensus, and AI systems — **300+ articles published on Medium.**
+
+* 📖 **[Why Replication Is One of the Hardest Problems in Distributed Systems](https://medium.com/codetodeploy/why-replication-is-one-of-the-hardest-problems-in-distributed-systems-960de0117657)**
+* 📖 **[The Physics of Payment Systems: Why Exactly-Once Semantics Fail in Practice](https://medium.com/h7w/the-physics-of-payment-systems-why-exactly-once-semantics-fail-in-practice-895b5616baa0)**
+* 📖 **[From Minutes to Milliseconds: Docker Build Optimization](https://medium.com/h7w/from-minutes-to-milliseconds-docker-build-optimization-0bbc706ec692)**
+* 📖 **[Hierarchical Semantic Chunking in RAG Architectures](https://medium.com/h7w/hierarchical-semantic-chunking-129bb46bba92)**
+* 📖 **[Retry, Error Handling & Idempotency: The Hidden Science of Reliable Systems](https://medium.com/@scaibu)**
+
+---
+
+## 🤝 Partner & Collaborate With Scaibu
 
 <div align="center">
 
-We partner with high-growth companies and engineering teams to architect scalable AI platforms, distributed backends, and cloud infrastructure.
+We collaborate with forward-thinking enterprises, engineering leaders, and scale-ups to design and deploy fault-tolerant distributed platforms and mission-critical AI systems.
 
 [![Website](https://img.shields.io/badge/🌐_Visit_Scaibu_Website-scaibu.co.in-6366F1?style=for-the-badge)](https://scaibu.co.in)
 [![Email](https://img.shields.io/badge/✉️_Contact_Engineering-chief%40scaibu.co.in-0A66C2?style=for-the-badge)](mailto:chief@scaibu.co.in)
@@ -96,5 +122,5 @@ We partner with high-growth companies and engineering teams to architect scalabl
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0D1117&height=120&section=footer" width="100%" alt="Scaibu Footer"/>
-  <sub>© Scaibu. Empowering intelligent systems at scale.</sub>
+  <sub>© Scaibu. Architecting the future of intelligent systems.</sub>
 </div>
