@@ -89,11 +89,11 @@
 
 | Repository | Domain | Architectural Focus |
 |---|---|---|
-| 🛒 [ProcureIQ](https://github.com/Chief-Strategist-J/ProcureIQ) | Enterprise AI | Intelligent autonomous procurement platform with multi-modal LLM reasoning |
-| 📊 [llm-observability-platform](https://github.com/Chief-Strategist-J/llm-observability-platform) | AI Observability | OpenTelemetry tracing, latency tracking, and token cost telemetry for agent runs |
-| 🔄 [kafka-messaging-pipeline](https://github.com/Chief-Strategist-J/kafka-messaging-pipeline) | Distributed Systems | High-throughput distributed event streaming pipeline with idempotency guarantees |
-| 🌐 [a2a-demo](https://github.com/Chief-Strategist-J/a2a-demo) | Agent Communication | Multi-agent protocol demonstration utilizing LangGraph and Google Gemini |
-| 🔒 [scaibu_mutex_lock](https://github.com/Chief-Strategist-J/scaibu_mutex_lock) | Concurrency | High-performance asynchronous mutex lock implementation for concurrent runtimes |
+| 🛒 [ProcureIQ](https://github.com/Scaibu/ProcureIQ) | Enterprise AI | Intelligent autonomous procurement platform with multi-modal LLM reasoning |
+| 📊 [llm-observability-platform](https://github.com/Scaibu/llm-observability-platform) | AI Observability | OpenTelemetry tracing, latency tracking, and token cost telemetry for agent runs |
+| 🔄 [kafka-messaging-pipeline](https://github.com/Scaibu/kafka-messaging-pipeline) | Distributed Systems | High-throughput distributed event streaming pipeline with idempotency guarantees |
+| 🌐 [a2a-demo](https://github.com/Scaibu/a2a-demo) | Agent Communication | Multi-agent protocol demonstration utilizing LangGraph and Google Gemini |
+| 🔒 [scaibu_mutex_lock](https://github.com/Scaibu/scaibu_mutex_lock) | Concurrency | High-performance asynchronous mutex lock implementation for concurrent runtimes |
 
 ---
 
