@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6366F1,100:8B5CF6&height=220&section=header&text=Scaibu&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Next-Gen%20AI%20Architectures%20%26%20Distributed%20Systems%20Lab&descAlignY=62&descSize=19&descColor=A5B4FC" width="100%" alt="Scaibu Organization Header"/>
+<img src="https://raw.githubusercontent.com/Scaibu/.github/main/profile/assets/header.svg" width="100%" alt="Scaibu Header"/>
+
+<br/><br/>
 
 <a href="https://scaibu.co.in">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Next-Gen+AI+Architectures+%26+Agentic+Systems;High-Throughput+Distributed+Pipelines;Enterprise+RAG+%26+Vector+Databases;Cloud-Native+Infrastructure+%26+IaC" alt="Scaibu Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 [![Website](https://img.shields.io/badge/Website-scaibu.co.in-6366f1?style=flat&logo=googlechrome)](https://scaibu.co.in)
 [![Email](https://img.shields.io/badge/Email-chief%40scaibu.co.in-4285F4?style=flat&logo=gmail&logoColor=white)](mailto:chief@scaibu.co.in)
@@ -116,11 +118,7 @@ We collaborate with forward-thinking enterprises, engineering leaders, and scale
 [![Website](https://img.shields.io/badge/🌐_Visit_Scaibu_Website-scaibu.co.in-6366F1?style=for-the-badge)](https://scaibu.co.in)
 [![Email](https://img.shields.io/badge/✉️_Contact_Engineering-chief%40scaibu.co.in-0A66C2?style=for-the-badge)](mailto:chief@scaibu.co.in)
 
-</div>
+<br/><br/>
+<sub>© Scaibu. Architecting the future of intelligent systems.</sub>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0D1117&height=120&section=footer" width="100%" alt="Scaibu Footer"/>
-  <sub>© Scaibu. Architecting the future of intelligent systems.</sub>
 </div>
